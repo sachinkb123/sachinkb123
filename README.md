@@ -44,3 +44,10 @@ Feel free to reach out to me via email at [sachinkb172@gmail.com](mailto:sachink
 
 Connect with me and let's embark on a journey of innovation together! 🚀
 
+## Fun Facts
+
+- 🌍 **Travel Enthusiast**: I love exploring new places and experiencing different cultures. Traveling not only broadens my horizons but also inspires my creative thinking in coding.
+- 🏏 **Cricket Fanatic**: Cricket is my favorite sport! Whether playing a match or cheering for my team, I enjoy the excitement and strategy involved in the game.
+- 💻 **Coding Passion**:  I’m fascinated by building scalable systems and solving complex problems. Every line of code is a step towards creating something impactful!
+
+Feel free to connect with me if you share any of these interests or if you’re passionate about backend development!
