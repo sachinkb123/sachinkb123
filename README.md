@@ -50,4 +50,4 @@ Connect with me and let's embark on a journey of innovation together! 🚀
 - 🏏 **Cricket Fanatic**: Cricket is my favorite sport! Whether playing a match or cheering for my team, I enjoy the excitement and strategy involved in the game.
 - 💻 **Coding Passion**:  I’m fascinated by building scalable systems and solving complex problems. Every line of code is a step towards creating something impactful!
 
-Feel free to connect with me if you share any of these interests or if you’re passionate about backend development!
+Feel free to connect with me if you share any of these interests or if you’re passionate about backend development! 🌈✨
