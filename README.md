@@ -28,4 +28,18 @@ Here are the technologies I'm proficient in:
 
 🌌 Eclipse IDE
 
+## Education
+
+🎓 BTech in Electrical And Electronics from Bapuji Institute Of Engineering College Davanagere
+
+## Contact Me
+Feel free to reach out to me via email at [sachinkb172@gmail.com]. I'm open to discussing exciting opportunities or simply having a chat about technology! 📩
+
+# GitHub
+
+Explore my projects and contributions on GitHub:
+
+sachinkb123
+Connect with me and let's embark on a journey of innovation together! 🚀
+
 
