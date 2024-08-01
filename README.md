@@ -1,7 +1,7 @@
 ## Hi, I'm Sachin K B! 👋
 
 ### About Me
-I'm a passionate backend developer from Karnataka, Davanagere. With a strong foundation in Java and Spring Boot, I love crafting efficient and scalable solutions. As a BTech graduate from Bapuji Institute Of Engineering College Davanagere, I continuously strive to stay up-to-date with the latest technologies and explore new possibilities in the tech world.
+I'm a passionate backend developer from Karnataka, Davanagere. With a strong foundation in Java and Spring Boot, I love crafting efficient and scalable solutions. As a B.E. graduate from Bapuji Institute Of Engineering College Davanagere, I continuously strive to stay up-to-date with the latest technologies and explore new possibilities in the tech world.
 
 ### Tech Stack
 Here are the technologies I'm proficient in:
@@ -36,8 +36,8 @@ Here are the technologies I'm proficient in:
 Feel free to reach out to me via email at [sachinkb172@gmail.com](mailto:sachinkb172@gmail.com). I'm open to discussing exciting opportunities or simply having a chat about technology! 📩
 
 ### Connect with Me
-**Sachin K B**
+**Sachin K B** (https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sachinkb452000)](https://www.linkedin.com/in/sachinkb452000)
 
 Connect with me and let's embark on a journey of innovation together! 🚀
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sachinkb452000)](https://www.linkedin.com/in/sachinkb452000)
+
