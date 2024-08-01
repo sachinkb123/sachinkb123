@@ -8,17 +8,24 @@ I'm a passionate backend developer from Karnataka, Davanagere. With a strong fou
 ## Tech Stack
 Here are the technologies I'm proficient in:
 
-Programming Languages:
+## Programming Languages:
+
 ☕ Java
+
 💻 Core Java
 
-Frameworks:
+## Frameworks:
+
 🌱 Spring Boot
 
-Databases & Tools:
+## Databases & Tools:
+
 🛢️ MySQL
+
 📬 Postman
+
 🐙 Git
+
 🌌 Eclipse IDE
 
 
