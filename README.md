@@ -36,8 +36,6 @@ Here are the technologies I'm proficient in:
 Feel free to reach out to me via email at [sachinkb172@gmail.com](mailto:sachinkb172@gmail.com). I'm open to discussing exciting opportunities or simply having a chat about technology! 📩
 
 ### Connect with Me
-**Sachin K B** (https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sachinkb452000)](https://www.linkedin.com/in/sachinkb452000)
 
-Connect with me and let's embark on a journey of innovation together! 🚀
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sachinkb452000)](https://www.linkedin.com/in/sachinkb452000)
 
