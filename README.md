@@ -15,7 +15,7 @@ Here are the technologies I'm proficient in:
 - 🌱 Spring Boot
 - 🌿 Hibernate
 
-#### Frontend:
+#### Frontend Technologies:
 - 🌐 HTML
 - 🎨 CSS
 - 🖥️ JavaScript
